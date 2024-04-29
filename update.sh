@@ -1,2 +1,2 @@
-rm -rf /usr/local/apache2/htdocs/u/densmorert/crafting/
-cp -r public /usr/local/apache2/htdocs/u/densmorert/crafting/
+rm -rf /usr/local/apache2/htdocs/u/mathuesmr/crafting/
+cp -r public /usr/local/apache2/htdocs/u/mathuesmr/crafting/
